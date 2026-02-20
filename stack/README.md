@@ -1,4 +1,4 @@
-# Stack — Data Structures & Algorithms
+# Stack
 
 A collection of stack-based problems that I implemented in C++ while studying data structures. These are some of my favorite examples of how a simple data structure like a stack can solve surprisingly complex problems.
 
