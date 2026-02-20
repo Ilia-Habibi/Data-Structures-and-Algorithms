@@ -1,0 +1,6 @@
+*.exe
+build/
+bin/
+cmake-build-*/
+.vscode/
+__pycache__/
