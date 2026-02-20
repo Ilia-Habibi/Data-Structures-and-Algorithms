@@ -1,4 +1,4 @@
-# Graph Algorithms 📊
+# Graph
 
 My implementations of graph algorithms for the DSA course. Trying to keep things clean and well-commented so I can actually understand them later lol.
 
